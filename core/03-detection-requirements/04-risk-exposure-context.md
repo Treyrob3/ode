@@ -10,7 +10,7 @@ This lesson covers where that context comes from, how to use vulnerability intel
 
 ## Core Content
 
-### Asset criticality
+### Asset Criticality
 
 Asset criticality is how much harm the organization suffers if an asset is compromised. It depends on what the asset does for the business, what data it holds, and what access it grants to other systems. Risk assessment frameworks such as National Institute of Standards and Technology (NIST) Special Publication (SP) 800-30 Rev. 1 treat impact as one of the core factors of risk alongside likelihood. Asset criticality helps a detection engineer estimate the potential impact of compromising a specific system.
 
